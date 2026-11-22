@@ -39,7 +39,7 @@ Audio must start only after user interaction.
 
 ## Known limitations
 
-Some original photos exceed 20 MB, so first visits and enlarged photos can be slow on mobile connections. A future optimization should add web-sized derivatives while retaining originals intentionally.
+Website photos have been resized to a maximum 1920px edge and saved as progressive JPEGs. The 69 optimized photos total about 23.8 MB (previously 370.4 MB); full-resolution backups are kept outside this repository.
 Headless audio tests establish playback progression, not perceived sound quality.
 
 ## Attribution and content
