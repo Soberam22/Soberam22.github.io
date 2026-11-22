@@ -1,4 +1,4 @@
 formal.css adapted from JianYan11/JianYan11.github.io stylesheet.css, tree 1168babca46619166081ce572d5f9ed2264f934e. README: This is the source code to Jon Barron public academic website https://jonbarron.info/. Feel free to clone this code for your own personal use. No separate LICENSE found in inspected tree. Reference personal content and photographs were not copied.
-Player, games and Canvas effects are local implementations; no third-party particle library bundled. Photos, cover and audio supplied by the user. No public deployment performed in this turn.
+Player, games and Canvas effects are local implementations; no third-party particle library bundled. Photos, cover and audio supplied by the user.
 
 Chromium T-Rex extracted by wayou/t-rex-runner, revision 5455bfa408ec6b707c7300ff194b7390733a766d. Original source copyright headers and BSD-3-Clause LICENSE retained in dino/. Adaptations: removed remote font, embedded in iframe, local display styling.

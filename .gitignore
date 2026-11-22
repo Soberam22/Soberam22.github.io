@@ -1,0 +1,15 @@
+# Local previews and verification artifacts
+node_modules/
+__pycache__/
+*.pyc
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
+*-check.png
+check-browser.cjs
+preview.py
+Start-preview.cmd
+playwright-report/
+test-results/
